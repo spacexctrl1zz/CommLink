@@ -2,7 +2,7 @@
  - Version: 1.0.1
  - Author: Haka
  - Description: A userscript library for cross-window communication via the userscript storage
- - GitHub: https://github.com/AugmentedWeb/CommLink
+ - GitHub: https://github.com/spacexctrl1zz/CommLink
  */
 
 class CommLinkHandler {
